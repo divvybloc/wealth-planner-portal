@@ -1,7 +1,7 @@
-# Wealth Planner Annuity Product
+# Wealth Planner Annuity Portal
 
 ## Project Overview
-The wealth planner product is designed to provide clients with customizable, structured financial solutions aimed at guaranteeing income and managing financial risk during retirement. This product is tailored to fit the needs of clients looking for tax-deferred growth, principal protection, and guaranteed payouts.
+The portal is designed to provide clients with customizable, structured financial solutions aimed at guaranteeing income and managing financial risk during retirement. This product is tailored to fit the needs of clients looking for tax-deferred growth, principal protection, and guaranteed payouts.
 
 ## Key Features
 - **Guaranteed Income**: Ensures clients receive a predictable and stable income throughout retirement.
